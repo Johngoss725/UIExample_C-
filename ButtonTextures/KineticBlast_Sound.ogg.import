@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/KineticBlast_Sound.ogg-202f2e6d5b878b787b46f765cd4b51ee.oggstr"
+
+[deps]
+
+source_file="res://ButtonTextures/KineticBlast_Sound.ogg"
+dest_files=[ "res://.import/KineticBlast_Sound.ogg-202f2e6d5b878b787b46f765cd4b51ee.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

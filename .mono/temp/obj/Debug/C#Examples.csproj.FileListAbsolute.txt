@@ -1,0 +1,9 @@
+/home/averagegodotenjoyer/C#Examples/.mono/temp/obj/Debug/C#Examples.csproj.AssemblyReference.cache
+/home/averagegodotenjoyer/C#Examples/.mono/temp/obj/Debug/C#Examples.GeneratedMSBuildEditorConfig.editorconfig
+/home/averagegodotenjoyer/C#Examples/.mono/temp/obj/Debug/C#Examples.AssemblyInfoInputs.cache
+/home/averagegodotenjoyer/C#Examples/.mono/temp/obj/Debug/C#Examples.AssemblyInfo.cs
+/home/averagegodotenjoyer/C#Examples/.mono/temp/obj/Debug/C#Examples.csproj.CoreCompileInputs.cache
+/home/averagegodotenjoyer/C#Examples/.mono/temp/bin/Debug/C#Examples.dll
+/home/averagegodotenjoyer/C#Examples/.mono/temp/bin/Debug/C#Examples.pdb
+/home/averagegodotenjoyer/C#Examples/.mono/temp/obj/Debug/C#Examples.dll
+/home/averagegodotenjoyer/C#Examples/.mono/temp/obj/Debug/C#Examples.pdb
